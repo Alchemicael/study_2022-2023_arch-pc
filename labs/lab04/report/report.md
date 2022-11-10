@@ -1,7 +1,7 @@
 ---
 ## Front matter
-title: "Лабораторная работа №4"
-subtitle: "дисциплина: Архитектура компьютера"
+title: "Отчёт по лабораторной работе №4"
+subtitle: "Язык разметки Markdown"
 author: "Михаил Александрович Мелкомуков"
 
 ## Generic otions
@@ -82,7 +82,7 @@ header-includes:
 
 ![Перешли в каталог с шаблоном отчёта по лабораторной работе №4](image/cd_labs.png)
 
-Провели компиляцию шаблона с использованием Makefile с помощью команды make. Сгенерировались файлы report.docx и report.pdf.
+![Провели компиляцию шаблона с использованием Makefile с помощью команды make. Сгенерировались файлы report.docx и report.pdf](image/compile_lab04.png)
 
 ![Открыли и проверили корректность полученного файла report.docx](image/sample_docx.png)
 
@@ -91,7 +91,18 @@ header-includes:
 ![Удалили полученные файлы с использованием Makefile с помощью команды make clean](image/make_clean.png)
 
 Открыли файл report.md с помощью текстового редактора gedit.
+
 ![Заполнили отчёт по лабораторной работе №4](image/do_markdown.png)
+
+![Загрузили файлы на GitHub (https://github.com/Alchemicael/study_2022-2023_arch-pc)](image/move_github.png)
+
+# Задания для самостоятельной работы
+
+![Сделали отчёт по лабораторной работе №3 в формате Markdown](image/markdown_lab03.png)
+
+![Провели компиляцию отчёта по лабораторной работе №3 с использованием Makefile с помощью команды make. Сгенерировались файлы report.docx и report.pdf](image/compile_lab03.png)
+
+Загрузили файлы на Github (https://github.com/Alchemicael/study_2022-2023_arch-pc).
 
 # Выводы
 
